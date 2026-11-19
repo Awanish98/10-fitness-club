@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Prompt pack and design preview references (not part of the site)
+PROMPT.md
+assets/
